@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "package": "^1.0.1"
+  },
+  "name": "js",
+  "version": "1.0.0",
+  "description": "to build README generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mekonnenke/Mekonnenke.git"
+  },
+  "author": "Mekonnen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mekonnenke/Mekonnenke/issues"
+  },
+  "homepage": "https://github.com/Mekonnenke/Mekonnenke#readme"
+}
