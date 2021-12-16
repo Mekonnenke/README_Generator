@@ -3,10 +3,10 @@
 <h1 align="center">README.md Generator Using Node.js 👋</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/github/repo-size/mekonnenke/README-generator" />
-    <img src="https://img.shields.io/github/languages/top/mekonnenke/README-generator"  />
-    <img src="https://img.shields.io/github/issues/mekonnenke/README-generator" />
-    <img src="https://img.shields.io/github/last-commit/mekonnenke/README-generator" >
+    <img src="https://img.shields.io/github/repo-size/Mekonnenke/README-generator" />
+    <img src="https://img.shields.io/github/languages/top/Mekonnenke/README-generator"  />
+    <img src="https://img.shields.io/github/issues/Mekonnenke/README-generator" />
+    <img src="https://img.shields.io/github/last-commit/Mekonnenke/README-generator" >
 </p>
   
 <p align="center">
